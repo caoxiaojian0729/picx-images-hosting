@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 192 192">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #1c4077;
+      }
+    </style>
+  </defs>
+  <polygon class="st0" points="122.91 125.33 110.88 125.33 69.32 78.8 81.35 78.8 122.91 125.33"/>
+  <polygon class="st0" points="69.32 125.33 81.35 125.33 122.91 78.8 110.88 78.8 69.32 125.33"/>
+  <rect class="st0" x="44.91" y="78.8" width="8.96" height="46.53"/>
+  <rect class="st0" x="45.39" y="70.31" width="8" height="6.8"/>
+  <g>
+    <circle class="st0" cx="49.39" cy="70.67" r="4"/>
+    <g>
+      <polygon class="st0" points="55.19 77.07 80.15 77.08 72.72 70.32 55.19 70.31 55.19 77.07"/>
+      <polygon class="st0" points="43.59 70.32 18.64 70.31 26.06 77.07 43.59 77.08 43.59 70.32"/>
+    </g>
+  </g>
+  <rect class="st0" x="138.13" y="78.8" width="8.96" height="46.53" transform="translate(285.22 204.13) rotate(-180)"/>
+  <rect class="st0" x="138.61" y="70.31" width="8" height="6.8" transform="translate(285.22 147.42) rotate(-180)"/>
+  <circle class="st0" cx="142.61" cy="70.67" r="4"/>
+  <g>
+    <polygon class="st0" points="136.81 77.07 111.85 77.08 119.28 70.32 136.81 70.31 136.81 77.07"/>
+    <polygon class="st0" points="148.41 70.32 173.36 70.31 165.94 77.07 148.41 77.08 148.41 70.32"/>
+  </g>
+</svg>
